@@ -35,3 +35,6 @@ void main(){
   String nameToPrint = name ?? 'Guest';
   print(nameToPrint);
 }
+
+//in case of switch case statements you can use default case at the end
+// also in Switch case you can either pass integer or string
